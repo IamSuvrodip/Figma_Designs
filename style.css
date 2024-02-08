@@ -146,8 +146,10 @@ nav ul li a {
   transform: scale(0.96);
 }
 .card1 {
-  background-image: url(/Ticket_Booking_App_Image/image.png);
+  height: 300px;
+  border-radius: 10px;
 }
 .card2 {
-  background-image: url(/Health_Care_Webpage_Image/image.png);
+  height: 300px;
+  border-radius: 10px;
 }
